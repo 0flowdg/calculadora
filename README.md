@@ -2,7 +2,7 @@
 
 ### 🚀 Uma aplicação de console em Java para operações matemáticas básicas!
 
-Esta é uma calculadora simples desenvolvida em Java, capaz de realizar as quatro operações matemáticas básicas: adição, subtração, multiplicação e divisão. Se você está começando a aprender Java ou quer uma aplicação prática para entender conceitos como entrada/saída de dados, controle de fluxo e operadores aritméticos, este projeto é perfeito para você!
+Esta é uma calculadora simples desenvolvida em Java, capaz de realizar as quatro operações matemáticas básicas: adição, subtração, multiplicação e divisão.
 
 ## 📝 Funcionalidades:
 - Realiza operações de **adição**, **subtração**, **multiplicação** e **divisão**.
